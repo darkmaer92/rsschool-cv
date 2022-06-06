@@ -64,6 +64,7 @@ Udemy:
 The Complete JavaScript Course 2022: From Zero to Expert! (69 total hours) by Jonas Schmedtmann
 CS50 Introduction to Computer Science, May 2017
 
+
 ##ACHIEVEMENTS
 - Prepared for a 10 km race at the airport in Berlin (Airport Night Run) in 2 months. (from 0.5km running non-stop)
 - Organized, designed and assembled exhibition stands in Nuremberg for the company I work for.
